@@ -6,7 +6,6 @@
   -[Usage](#usage)
   -[Licences](#licences)
   -[Contribution](#contribution)
-  -[Test](#tests)
   -[Question](#questions)
   ## Description
   ### Cool App to make a restaurant reservation
@@ -15,11 +14,11 @@
   ## Usage
   ### Easy to use introduce your information in boxes and submit
   ## Licence
-   ![badge](https://img.shields.io/badge/License-$-blue.svg
+   ![badge](https://img.shields.io/badge/License-$-blue.svg)
   ## Contribution
   ### Make the code better or add futures
   ## Questions
    
   ### Email:grigore.mereacre95@gmail.com
   ## Img
-  ![Here is the img](./Images/HotRestaurant.pgn)
+  ![Here is the img](/Images/HotRestaurant.png

@@ -21,4 +21,4 @@
    
   ### Email:grigore.mereacre95@gmail.com
   ## Img
-  ![Here is the img](/Images/HotRestaurant.png
+  ![Here is the img](/Images/HotRestaurant.png)
